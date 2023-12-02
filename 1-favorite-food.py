@@ -1,0 +1,7 @@
+print("-----Python Sample-----")
+name = input("Hello! What's your name?: ")
+print("Hello, "+name+".")
+food = input("What food do you like?: ")
+print("Nice!")
+print("Your name: "+name+" Favorite food: "+food)
+print("-----Finish-----")
